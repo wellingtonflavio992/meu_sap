@@ -1,0 +1,7 @@
+streamlit
+streamlit-option-menu
+streamlit-image-comparison
+pandas
+google-generativeai
+Pillow
+PyMuPDF
